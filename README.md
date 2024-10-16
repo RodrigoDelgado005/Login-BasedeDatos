@@ -6,4 +6,3 @@ En SignUp.php se crea la conexion, se verifica los datos con la BD y muestra los
 En Login.php se crea la conexion, se verifican los datos ingresados con la BD y muestra los mensajes correspondientes.
 
 Proyecto del Login para esta conexion:
-# Login-BasedeDatos
