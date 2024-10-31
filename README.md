@@ -10,4 +10,4 @@ Con esto ya podremos registrar a los usuarios y nos quedaria de esta manera la B
 
 
 Proyecto del Login para esta conexion:
-https://github.com/RodrigoDelgado005/LogIn-RN1
+[https://github.com/RodrigoDelgado005/LogIn-RN1](https://github.com/RodrigoDelgado005/Componentes-del-dispositivo-RN3.git)
