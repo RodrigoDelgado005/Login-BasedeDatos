@@ -6,7 +6,7 @@ En SignUp.php se crea la conexion, se verifica los datos con la BD y muestra los
 En Login.php se crea la conexion, se verifican los datos ingresados con la BD y muestra los mensajes correspondientes.
 Con esto ya podremos registrar a los usuarios y nos quedaria de esta manera la Base de Datos:
 
-![image](https://github.com/user-attachments/assets/2b054faf-ae7b-4954-97ea-5b7aad23fa38)
+![image]([https://github.com/user-attachments/assets/2b054faf-ae7b-4954-97ea-5b7aad23fa38](https://github.com/RodrigoDelgado005/Componentes-del-dispositivo-RN3?tab=readme-ov-file))
 
 
 Proyecto del Login para esta conexion:
